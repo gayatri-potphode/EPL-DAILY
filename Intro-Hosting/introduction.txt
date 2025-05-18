@@ -1,0 +1,25 @@
+
+******Introduction to HTML******
+
+##.. what is the Web?
+
+--it is the sysytem of interlinked hypertext document accessed through the internet.
+--it used http protocol for send and receive request .
+--the world wild web (www) is also called Web.
+
+##.. HTTP  :Hyper Text Transfer Protocol.
+
+##.. what is browser?
+
+--the software which is used to show the web pages.
+--EX : chrome,edge,firefox,suffari.
+
+##..  what is web page?
+-- it is the page we can see it on browser in any form.
+
+##.. Key features of HTML :
+---easy to understand
+---same as english 
+---markup laguage
+---uesd (.html) extention 
+---provide the structure or layout of webpage.

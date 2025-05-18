@@ -1,0 +1,32 @@
+
+******HOSTING******
+
+##.. what is hosting?
+
+--HOsting is the concept in which we uplaod our work(project) on the internet,
+    because of hosting other people also can see our project.
+
+
+    ### Key concepts
+
+    1- Domain name
+        -domain is the address of the website.(eg.epl.com)
+        -it can be...(.com, .in, .edu)
+
+    2- Hosting platform
+        -website file are share to other for use them is knwon as hosting platform.
+        -Ex. Github, Netlify, vercel, render, firebase hosting.   
+
+    3- Types of hosting
+        -Static hostin: only html used,(no backend) .  
+        -dynamic hosting : with backend code(node,js,python).
+
+
+
+##.. Hosting process  
+--     1. build project.
+--     2. select hosting platform.
+--     3. upload files(drag-and-drop,git).
+--     4. connect domain(optional).
+--     5. website will get live.(i;ll get URL).
+
